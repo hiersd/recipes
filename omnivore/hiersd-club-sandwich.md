@@ -7,4 +7,7 @@ meat
 vegies
 
 ## Directions
+cut
+slice
+stack
 
